@@ -1,9 +1,0 @@
-[submodule "lostlink-item-service"]
-	path = lostlink-item-service
-	url = https://github.com/SasinduDenuwan/lostlink-item-service.git
-[submodule "lostlink-media-service"]
-	path = lostlink-media-service
-	url = https://github.com/SasinduDenuwan/lostlink-media-service.git
-[submodule "lostlink-user-service"]
-	path = lostlink-user-service
-	url = https://github.com/SasinduDenuwan/lostlink-user-service.git
